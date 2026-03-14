@@ -33,7 +33,7 @@ Explored how audio features (tempo, energy, danceability) predict track populari
 
 **Strong:** Python, pandas, scikit-learn, SQL, data visualization (Matplotlib, Tableau)
 **Working knowledge:** NumPy, Jupyter, Git/GitHub
-**Currently deepening:** ML model deployment, geospatial analysis
+**Currently deepening:** ML model deployment
 
 ---
 
@@ -45,5 +45,5 @@ My engineering and sales background taught me that data only matters when it cha
 
 ## Connect
 
-- [(https://www.linkedin.com/in/marc-kiobola/)](#)
-- Marc.kiobola@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/marc-kiobola/)
+- [Email](Marc.kiobola@gmail.com)
