@@ -15,12 +15,6 @@ A scoring and analytics system to support zoning and development decisions, inco
 **What I found:** Identified key zoning variables that disproportionately influence development suitability scores, providing a replicable framework for municipal decision-making.
 **Stack:** Python, pandas, feature engineering, scoring systems, data visualization
 
-### Short-Term Rental Pricing Model
-Built regression models to identify the drivers of short-term rental pricing and support dynamic pricing decisions.
-
-**What I found:** Neighborhood-level features and listing quality indicators were stronger predictors of price than property size alone.
-**Stack:** Python, scikit-learn, data cleaning, model evaluation, EDA
-
 ### Song Popularity Prediction
 Explored how audio features (tempo, energy, danceability) predict track popularity on streaming platforms.
 
